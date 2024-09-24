@@ -2,8 +2,7 @@
 int main() {
    // printf() displays the string inside quotation
    printf("Hello, World!");
-   printf(" i have modified after 2nd commit")
-   print("1st branch")
+print("added by branch1")
    return 0;
 }
 
